@@ -1,6 +1,7 @@
 # Projeto acadêmico web do site da Evolve
 
 Repositório desenvolvido para o projeto acadêmico da disciplina de Desenvolvimento Web do curso de Ciência da Computação da Univali Itajaí.
+
 Alunos: Leonardo Baronio, Gabriel Mafra, Rodrigo Spicker, Igor Peixer.
 
 Siga o tutorial de como rodar o projeto em sua máquina local.
